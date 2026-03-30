@@ -3,7 +3,7 @@ manifest:
     - name: SplittedSpace
       url-base: https://github.com/SplittedSpace
   projects:
-    - name: zmk-firmware_deprecated
+    - name: zmk-firmware__deprecated
       remote: SplittedSpace
       revision: main
       import: app/west.yml
